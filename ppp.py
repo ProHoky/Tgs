@@ -2,6 +2,7 @@ daftarPelanggan = []
 
 while True:
     print("==========Antrian Pembelian Makanan===========")
+    print("Selamat Berbelanja")
     print("Menu Antrian:")
     print("1. Tambah Pelanggan")
     print("2. Tampilkan Antrian")
